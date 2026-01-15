@@ -1,12 +1,18 @@
 com\projet\gnotes\controllers\MatiereController.class
 com\projet\gnotes\controllers\AuthController.class
 com\projet\gnotes\views\AdminUI.class
+com\projet\gnotes\views\AdminMatiereTab$1.class
 com\projet\gnotes\views\AdminEnseignantTab$1.class
+com\projet\gnotes\controllers\EtudiantController.class
+com\projet\gnotes\views\ModaleMatiere.class
 com\projet\gnotes\dao\DbConnection.class
 com\projet\gnotes\dao\MatiereDAO.class
 com\projet\gnotes\views\ModaleEnseignant.class
 com\projet\gnotes\models\Matiere.class
 com\projet\gnotes\dao\EnseignantDAO.class
+com\projet\gnotes\views\AdminEtudiantTab$1.class
+com\projet\gnotes\dao\EtudiantDAO.class
+com\projet\gnotes\views\ModaleEtudiant.class
 com\projet\gnotes\views\BaseInterface.class
 com\projet\gnotes\database\AuthService.class
 com\projet\gnotes\dao\NoteDAO.class
@@ -16,6 +22,7 @@ com\projet\gnotes\models\Bulletin.class
 com\projet\gnotes\views\EnseignantUI.class
 com\projet\gnotes\controllers\EnseignantController.class
 com\projet\gnotes\views\AdminEnseignantTab.class
+com\projet\gnotes\views\AdminEtudiantTab.class
 com\projet\gnotes\dao\BulletinDAO.class
 com\projet\gnotes\dao\UtilisateurDAO.class
 com\projet\gnotes\models\Utilisateur.class
