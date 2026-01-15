@@ -46,7 +46,7 @@ GNotes is a desktop application developed in Java for managing students and thei
 - Open MySQL and run the provided SQL file:
 
 ```bash
-    SOURCE path/to/universite.sql;
+    SOURCE ./universite.sql;
 ```
 
 
@@ -67,7 +67,6 @@ GNotes is a desktop application developed in Java for managing students and thei
 ![My solution](preview/interfaceAdmin.png)
 
 
-(Replace with an actual screenshot of the JavaFX interface)
 
 ## 👩‍💻 Author
 
