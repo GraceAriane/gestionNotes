@@ -1,0 +1,73 @@
+.containerInfos{
+    -fx-background-color: #fff;
+    -fx-background-radius: transparent;
+    -fx-border-color: none;
+    -fx-border-width: 1px;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+.intro{
+    -fx-text-align: center;
+    text-align: center;
+    -fx-display: flex;
+    -fx-justify-content: center;
+    -fx-align-items: center;
+}
+.connexion{
+    -fx-background-color: #ff725e;
+    -fx-border-radius: 3px;
+    -fx-background-radius: 25px;
+}
+.sidebar{
+    -fx-background-color: #F2E9E0;
+}
+.ibox{
+    -fx-margin: auto;
+}
+.border-radius{
+    -fx-background-radius: transparent;
+    -fx-border-color: none;
+    -fx-border-width: 1px;
+    -fx-border-radius: 20;
+    -fx-background-radius:20;
+}
+.font-semibold{
+    font-weight: 700;
+    -fx-font-weight: 700;
+}
+.corail{
+    -fx-background-color: #ff725e;
+
+}
+.sidebar-button{
+    
+}
+.active{
+    -fx-background-color: #ff725e;
+    -fx-text-fill: white;
+
+}
+.white-back{
+    -fx-border-style: none;
+    border-style: none;
+    background-color: #fff;
+    -fx-background-color: #fff;
+}
+.white-back > .viewport{
+    -fx-background-color: #fff;
+}
+.padding{
+    -fx-padding: 10px 20px;
+    -fx-text-fill: white;
+}
+.add{
+    -fX-background-color: rgb(50, 247, 148);
+}
+.edit{
+    -fX-background-color: rgb(57, 156, 238);
+    -fx-text-fill: white;
+}
+.delete{
+    -fX-background-color: rgb(247, 69, 69); 
+    -fx-text-fill: white;   
+}
